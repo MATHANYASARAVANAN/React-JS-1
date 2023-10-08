@@ -1,0 +1,18 @@
+#one{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210224/pngtree-blue-abstract-background-business-image_564246.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#two{
+    border-radius: 20px;
+}
+#buttondiv{
+    width: 60%;
+}
+#pwdid{
+    border-radius: 20px;
+    width: 50%;
+}
+#inputid{
+    border-radius: 20px;
+}
